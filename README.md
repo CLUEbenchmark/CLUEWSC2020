@@ -1,0 +1,1 @@
+CLUEWSC2020: WSC Winograd模式挑战中文版，中文指代消解任务
